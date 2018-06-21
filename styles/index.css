@@ -96,6 +96,23 @@ article p {
 
 }
 
+/*TABLE STYLES*/
+table {
+	padding: 1em;
+	margin: 0 auto;
+}
+th {
+	font-weight: 800;
+	text-transform: uppercase;
+}
+tr, td {
+	padding: 1em;
+}
+
+tr:nth-of-type(even) {
+	background-color: #ddd;
+}
+
 /*FOOTER STYLES*/
 
 footer {
@@ -106,13 +123,13 @@ footer {
 	font-style: italic;
 }
 
-footer a {
+footer a, #contact {
 	text-decoration: none;
 	font-weight: 800;
 	color: steelblue;
 }
 
-footer a:hover {
+footer a:hover, #contact:hover {
 	text-shadow: 1px 1px 1px #888;
 	cursor: pointer;
 }
