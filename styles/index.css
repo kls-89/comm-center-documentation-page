@@ -22,6 +22,10 @@ strong {
 	font-weight: 800;
 }
 
+code, kbd {
+	font-family: monospace;
+}
+
 /*NAV STYLES*/
 
 #navbar header {
@@ -83,7 +87,7 @@ article p {
 	padding: 0 0 0 1.2em;
 	}
 
-#important-reminder {
+.important-reminder {
 	text-align: center;
 	background-color: yellow;
 	padding: 1em 0;
