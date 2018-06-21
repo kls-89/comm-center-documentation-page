@@ -80,7 +80,7 @@ article p {
 }
 
 .list {
-	padding: 1em 1em 1em 1.2em;
+	padding: 0 0 0 1.2em;
 	}
 
 #important-reminder {
@@ -92,6 +92,26 @@ article p {
 
 }
 
+/*FOOTER STYLES*/
+
+footer {
+	text-align: center;
+	padding: 1em;
+	margin: 1em 0;
+	font-weight: 800;
+	font-style: italic;
+}
+
+footer a {
+	text-decoration: none;
+	font-weight: 800;
+	color: steelblue;
+}
+
+footer a:hover {
+	text-shadow: 1px 1px 1px #888;
+	cursor: pointer;
+}
 
 
 @media (min-width: 700px) {
@@ -113,9 +133,12 @@ article p {
 		font-size: 1em;
 	}
 
-	#main-doc {
+	#main-doc, footer {
 		margin-left: 475px;
 	}
 
+	.list {
+		padding-left: 3em;
+	}
 
 }
