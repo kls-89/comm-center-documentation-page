@@ -96,6 +96,11 @@ article p {
 
 }
 
+code {
+	background-color: #eaeaea;
+	padding: 0.1em 0.6em;
+}
+
 /*TABLE STYLES*/
 table {
 	padding: 1em;
