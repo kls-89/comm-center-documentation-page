@@ -4,7 +4,7 @@ Being successful in a public safety communications center means knowing how to q
 
 Dispatchers are not expected to know everything; however, they should be masters at knowing how to locate every piece of information they may need for their jobs.
 
-The purpose of this technical documentation is to provide a guide for some of the most important aspects of the job. By consolidating this information into a single document, I hope to help other succeeed at their jobs, and in doing so, provide a better quality of service to their coworkers and their community as a whole.
+The purpose of this technical documentation is to provide a guide for some of the most important aspects of the job. By consolidating this information into a single document, I hope to help others succeed at their jobs, and in doing so, provide a better quality of service to their coworkers and their community as a whole.
 
 
 This project's technical goal was to fulfill the user stories below:
